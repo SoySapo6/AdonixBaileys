@@ -10,9 +10,10 @@ Este paquete `requiere` Node.js versión **20 o superior** para funcionar.
 
 Este proyecto está explícitamente dirigido a entornos modernos y no soporta versiones antiguas de Node. El soporte siempre seguirá la última versión LTS de Node.js para mantener el rendimiento y compatibilidad con el ecosistema más reciente.
 
-• Solución LID
+• Solución LID & Spam
 
-> **Edited Baileys By Ado**
+> **Edited Baileys By SoyMaycol**
 
-[☏](https://wa.me/50493732693)
+[☏](https://wa.me/51921826291)
 
+> Fork de AdonixBailyes
